@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ステンドノクターン",
+  "base_artist": "とあ",
+  "createdAt": "2026-02-20T15:44:40.294280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ステンドノクターン",
+      "artist": "Toa",
+      "has_synced": false,
+      "path": "select/01_ステンドノクターン_Toa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ステンドノクターン",
+      "artist": "とあ",
+      "has_synced": false,
+      "path": "select/pl_01_ステンドノクターン_とあ.txt"
+    }
+  ]
+}
